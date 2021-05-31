@@ -1,0 +1,8 @@
+#center{
+    display: flex;
+    justify-content: center;
+}
+
+.card-item{
+    margin: 5px -3px;
+}
